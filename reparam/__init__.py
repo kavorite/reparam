@@ -1,2 +1,3 @@
 "miscellaneous reparameterization schemes for dm-haiku"
-from ._src.weight_standardization import weight_standardization
+from ._src.film import FiLM
+from ._src.wstd import weight_standardization
